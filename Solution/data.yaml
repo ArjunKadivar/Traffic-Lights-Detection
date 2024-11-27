@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Traffic Light -Green-', 'Traffic Light -Off-', 'Traffic Light -Red-', 'Traffic Light -Yellow-']
+
+roboflow:
+  workspace: bolbol-duawh
+  project: trafic_lights_detection
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bolbol-duawh/trafic_lights_detection/dataset/3
