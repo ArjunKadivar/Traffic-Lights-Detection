@@ -5,7 +5,7 @@ A deep learning model for detecting and classifying traffic lights using YOLOv11
 
 ### 1. Clone the repository
 ```
-git clone [your-repo-url]
+git clone https://github.com/ArjunKadivar/Traffic-Sign-Detection.git
 ```
 
 ### 2. Install dependencies
