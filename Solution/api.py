@@ -4,7 +4,6 @@ from ultralytics import YOLO
 import cv2
 import numpy as np
 from io import BytesIO
-from typing import List
 
 app = FastAPI()
 model = YOLO('best.pt')
