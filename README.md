@@ -86,3 +86,6 @@ Replace `/path/to/your/image.jpg` with the actual path to your test image.
 │   ├── val/     # Annotations for validation images
 data.yaml         # The dataset configuration file
 ```
+### Testing with image
+
+- While testing in `test.py ` with random image, getting the below output:
