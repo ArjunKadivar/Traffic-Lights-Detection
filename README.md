@@ -1,4 +1,4 @@
-# Traffic-Sign-Detection using YOLO
+# Traffic-Lights-Detection using YOLO
 A deep learning model for detecting and classifying traffic lights using YOLOv11 model, with a FastAPI implementation for real-time predictions.
 
 ## Setup intructions
