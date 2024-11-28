@@ -1,7 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
+train: /content/drive/MyDrive/dataset/images/train
+val: /content/drive/MyDrive/dataset/images/val
+test: /content/drive/MyDrive/dataset/images/test
 nc: 4
 names: ['Traffic Light -Green-', 'Traffic Light -Off-', 'Traffic Light -Red-', 'Traffic Light -Yellow-']
 
