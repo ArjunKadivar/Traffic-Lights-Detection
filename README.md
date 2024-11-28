@@ -89,3 +89,4 @@ data.yaml         # The dataset configuration file
 ### Testing with image
 
 - While testing in `test.py ` with random image, getting the below output:
+<img src="Solution/output.png" alt="Output image of Traffic Light Detection">
