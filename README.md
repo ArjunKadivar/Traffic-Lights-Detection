@@ -81,7 +81,7 @@ Replace `/path/to/your/image.jpg` with the actual path to your test image.
 │   ├── train/   # Training images
 │   ├── val/     # Validation images
 ├── labels/
-│   ├── test/    # test images
+│   ├── test/    # Annotations for test images
 │   ├── train/   # Annotations for training images
 │   ├── val/     # Annotations for validation images
 data.yaml         # The dataset configuration file
